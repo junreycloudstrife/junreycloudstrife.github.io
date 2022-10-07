@@ -1,2 +1,2 @@
-# junreycloudstrife.gtihub.io
+# junreycloudstrife.github.io
 My Sample Page
